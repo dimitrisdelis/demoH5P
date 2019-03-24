@@ -17,7 +17,7 @@ window.H5PIntegration = {
   "url": "", 
   "postUserStatistics": false, 
   
-  "ajaxPath": "/path/to/h5p-ajax"     
+  "ajaxPath": ""     
   "ajax": {
  
     "setFinished": "/interactive-contents/123/results/new", 
